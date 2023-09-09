@@ -41,6 +41,8 @@ window displaying detailed information and some descriptions.
 https://pokedex-celioamaral.vercel.app/
 ```
 
+![img3](https://github.com/CelioAmaral/pokedex/blob/main/assets/img/certificate.png)
+
 ## 👨🏽‍💻 Author:
 
 <img src="https://avatars.githubusercontent.com/u/85323953?v=4" width="100px;" alt="foto do desenvolvedor"/>
