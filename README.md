@@ -37,6 +37,10 @@ window displaying detailed information and some descriptions.
 
 ### :white_check_mark: Deploy
 
+```shell
+https://pokedex-celioamaral.vercel.app/
+```
+
 ## 👨🏽‍💻 Author:
 
 <img src="https://avatars.githubusercontent.com/u/85323953?v=4" width="100px;" alt="foto do desenvolvedor"/>
