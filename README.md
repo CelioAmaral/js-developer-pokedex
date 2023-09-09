@@ -33,7 +33,7 @@ window displaying detailed information and some descriptions.
 
 ![img1](https://github.com/CelioAmaral/js-developer-pokedex/blob/main/assets/img/demo1.png)
 
-![img2]()
+![img2](https://github.com/CelioAmaral/js-developer-pokedex/blob/main/assets/img/demo2.png)
 
 ### :white_check_mark: Deploy
 
