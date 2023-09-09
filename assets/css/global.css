@@ -8,6 +8,11 @@ body {
     background-color: #f6f8fc;
 }
 
+#title {
+    color: #6c79db;
+    text-align: center;
+}
+
 .content {
     width: 100vw;
     height: 100vh;
